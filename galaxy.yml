@@ -8,8 +8,8 @@ license: null
 license_file: null
 tags: null
 dependencies:
-  ansible.misc: '>=1.0'
   ansible.netcommon: '>=1.0'
+  ansible.misc: '>=1.0'
 repository: git@github.com:coll-test/ansible.acme.git
 documentation: https://github.com/coll-test/ansible.acme/tree/master/docs
 homepage: https://github.com/coll-test/ansible.acme
